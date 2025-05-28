@@ -68,8 +68,8 @@ python rps_gui.py
 ```
 📦 Micro-IT-Projects/
 ├── calculator.py
+├── calculator_screenshort.png
 ├── rps_gui.py
-├── calculator_screenshot.png
 ├── rps_screenshot.png
 └── README.md
 ```
