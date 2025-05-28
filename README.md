@@ -23,9 +23,7 @@ Make sure Python is installed, then run:
 
 python calculator.py
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -54,9 +52,7 @@ Make sure Python is installed, then run:
 
 python rps_gui.py
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -69,28 +65,17 @@ Edit
 
 ## 📂 Folder Structure
 
+```
 📦 Internship-Projects/
 ├── calculator.py
 ├── rps_gui.py
 ├── calculator_screenshot.png
 ├── rps_screenshot.png
 └── README.md
+```
 
-yaml
-Copy
-Edit
 
----
 
-## 📷 Screenshots
-
-### Calculator GUI
-![Calculator Screenshot](calculator_screenshot.png)
-
-### Rock-Paper-Scissors GUI
-![Rock-Paper-Scissors Screenshot](rps_screenshot.png)
-
----
 
 ## 📄 License
 
