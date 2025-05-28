@@ -66,7 +66,7 @@ python rps_gui.py
 ## 📂 Folder Structure
 
 ```
-📦 Internship-Projects/
+📦 Micro-IT-Projects/
 ├── calculator.py
 ├── rps_gui.py
 ├── calculator_screenshot.png
