@@ -19,12 +19,17 @@ A simple calculator application built using Python and Tkinter that allows users
 - Clear button to reset input
 - Real-time expression evaluation
 
+
+---
+
+### 
+
+```markdown
 ### 🚀 How to Run
 
 ```bash
 python calculator.py
 
----
 
 ## ✊ Project 2: Rock-Paper-Scissors Game
 
