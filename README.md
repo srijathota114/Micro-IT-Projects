@@ -1,5 +1,3 @@
-# Micro-IT-Projects
-Micro-IT Internship Python GUI Projects - Calculator and Rock-Paper-Scissors Game
 # 🎓 Micro-IT Internship Projects
 
 This repository contains two beginner-friendly Python GUI projects developed as part of the **Micro-IT Internship** program. The focus is on using Python and `Tkinter` to build interactive applications.
@@ -14,22 +12,22 @@ A simple calculator application built using Python and Tkinter that allows users
 
 ### 💡 Features
 
-- User-friendly GUI
-- Buttons for digits and operators
-- Clear button to reset input
-- Real-time expression evaluation
+- User-friendly GUI  
+- Buttons for digits and operators  
+- Clear button to reset input  
+- Real-time expression evaluation  
 
-
----
-
-### 
-
-```markdown
 ### 🚀 How to Run
 
-```bash
+Make sure Python is installed, then run:
+
 python calculator.py
 
+yaml
+Copy
+Edit
+
+---
 
 ## ✊ Project 2: Rock-Paper-Scissors Game
 
@@ -54,7 +52,55 @@ This is a GUI-based Rock-Paper-Scissors game developed in Python using Tkinter. 
 
 Make sure Python is installed, then run:
 
-```bash
 python rps_gui.py
+
+yaml
+Copy
+Edit
+
+---
+
+## 🛠️ Requirements
+
+- Python 3.x  
+- Tkinter (pre-installed with Python)
+
+---
+
+## 📂 Folder Structure
+
+📦 Internship-Projects/
+├── calculator.py
+├── rps_gui.py
+├── calculator_screenshot.png
+├── rps_screenshot.png
+└── README.md
+
+yaml
+Copy
+Edit
+
+---
+
+## 📷 Screenshots
+
+### Calculator GUI
+![Calculator Screenshot](calculator_screenshot.png)
+
+### Rock-Paper-Scissors GUI
+![Rock-Paper-Scissors Screenshot](rps_screenshot.png)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 🙌 Acknowledgment
+
+These projects were created as part of the **Micro-IT Internship** program to gain hands-on experience with Python GUI development.
+
 
 
